@@ -1,6 +1,6 @@
 # From Zero to Programmer: Complete Guide for Career Transition
 
-[中文](./README.md) | English
+English | [中文](./README.md) 
 
 
 ## 🚀 My Coding Journey
